@@ -4,9 +4,17 @@ h1, h2, head, footer {
     margin-top: 0;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
 body{
-    background-color: rgb(144, 167, 211);
+    background-color: aqua;
     color: purple;
+    font-size: large;
 }
 
 a:visited {
