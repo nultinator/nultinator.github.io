@@ -1,9 +1,24 @@
 h1, h2, head, footer {
     text-align: center;
     padding-top: 5%;
+    margin-top: 0;
 }
 
 body{
     background-color: rgb(144, 167, 211);
     color: purple;
+}
+
+a:visited {
+    color: red;
+}
+
+a:active {
+    color:darkslategrey;
+}
+
+hr {
+    background-color: purple;
+    border-color: aqua;
+    height: 5px;
 }
