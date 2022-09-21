@@ -36,3 +36,12 @@ hr {
     border-color: aqua;
     height: 5px;
 }
+
+button {
+    height: 30px;
+    width: 150px;
+    background-color: purple;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: aqua;
+}
