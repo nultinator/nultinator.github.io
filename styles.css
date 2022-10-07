@@ -38,9 +38,16 @@ hr {
 }
 
 button {
-    height: 30px;
-    background-color: purple;
+    border-radius: 3em;
+    min-height: 3em;
+    min-width: 3em;
+    background-color: rgb(13, 39, 87);
     font-family: sans-serif;
     font-size: 20px;
     color: aqua;
+
+}
+
+button:hover {
+    cursor: pointer;
 }
